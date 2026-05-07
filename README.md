@@ -48,3 +48,12 @@ This project demonstrates how big data technologies like PySpark can efficiently
 - Trend analysis
 - Data visualization
 - Scalable computation using Spark
+
+##OUTPUT 
+
+<img width="1282" height="662" alt="Image" src="https://github.com/user-attachments/assets/93363569-5dfc-4ec5-97ee-446742c186ea" />
+<img width="1267" height="737" alt="Image" src="https://github.com/user-attachments/assets/f10cd123-3c65-4531-a1da-00ecf222c910" />
+[README.md](https://github.com/user-attachments/files/27464312/README.md)
+<img width="1311" height="793" alt="Image" src="https://github.com/user-attachments/assets/5ad68017-ba0f-482f-9778-f3bc9844241a" />
+<img width="1339" height="642" alt="Image" src="https://github.com/user-attachments/assets/f716b72e-a3b2-43fb-8c94-f61e31856031" />
+<img width="1317" height="724" alt="Image" src="https://github.com/user-attachments/assets/06f160e6-a1ab-48e4-a2fa-a511d8b34c99" />
